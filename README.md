@@ -1,3 +1,4 @@
+[![RelativeCI](https://badges.relative-ci.com/badges/vEXYfh0eSTEzLAlIv0Bt?branch=master)](https://app.relative-ci.com/projects/vEXYfh0eSTEzLAlIv0Bt)
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
