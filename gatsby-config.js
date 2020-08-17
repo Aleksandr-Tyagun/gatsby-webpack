@@ -32,7 +32,7 @@ module.exports = {
       options: {
         statsFilename: '../reports/stats.json',
         reportFilename: '../reports/report.html',
-        openAnalyzer: true,
+        openAnalyzer: false,
         analyzerMode: 'static',
         generateStatsFile: true,
         statsOptions: {
