@@ -5,8 +5,8 @@
   ],
   "version": "4.43.0",
   "hash": "1b2f54eacd8e8e02b6d1",
-  "time": 2602,
-  "builtAt": 1597654742632,
+  "time": 6749,
+  "builtAt": 1597655563874,
   "publicPath": "/",
   "outputPath": "/Users/alexander/Projects/gatsby-webpack/public",
   "assetsByChunkName": {
@@ -573,9 +573,9 @@
               "name": "./.cache/_this_is_virtual_fs_path_/$virtual/async-requires.js"
             },
             {
-              "id": "w2l6",
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/404.js",
-              "name": "./src/pages/404.js"
+              "id": null,
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/index.js",
+              "name": "./src/pages/index.js"
             },
             {
               "id": "vrFN",
@@ -1020,9 +1020,9 @@
               "name": "./.cache/_this_is_virtual_fs_path_/$virtual/async-requires.js"
             },
             {
-              "id": "w2l6",
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/404.js",
-              "name": "./src/pages/404.js"
+              "id": null,
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/index.js",
+              "name": "./src/pages/index.js"
             },
             {
               "id": "vrFN",
@@ -1098,9 +1098,9 @@
               "name": "./.cache/_this_is_virtual_fs_path_/$virtual/async-requires.js"
             },
             {
-              "id": "w2l6",
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/404.js",
-              "name": "./src/pages/404.js"
+              "id": null,
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/index.js",
+              "name": "./src/pages/index.js"
             },
             {
               "id": "vrFN",
@@ -1159,9 +1159,9 @@
           "chunks": [
             0
           ],
-          "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/404.js",
-          "issuerId": "w2l6",
-          "issuerName": "./src/pages/404.js",
+          "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/index.js",
+          "issuerId": null,
+          "issuerName": "./src/pages/index.js",
           "issuerPath": [
             {
               "id": null,
@@ -1174,9 +1174,9 @@
               "name": "./.cache/_this_is_virtual_fs_path_/$virtual/async-requires.js"
             },
             {
-              "id": "w2l6",
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/404.js",
-              "name": "./src/pages/404.js"
+              "id": null,
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/index.js",
+              "name": "./src/pages/index.js"
             }
           ],
           "failed": false,
@@ -2583,9 +2583,9 @@
           "chunks": [
             3
           ],
-          "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/react/cjs/react.production.min.js",
-          "issuerId": "viRO",
-          "issuerName": "./node_modules/react/cjs/react.production.min.js",
+          "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/react-dom/cjs/react-dom.production.min.js",
+          "issuerId": "yl30",
+          "issuerName": "./node_modules/react-dom/cjs/react-dom.production.min.js",
           "issuerPath": [
             {
               "id": null,
@@ -2593,14 +2593,14 @@
               "name": "./.cache/production-app.js"
             },
             {
-              "id": "q1tI",
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/react/index.js",
-              "name": "./node_modules/react/index.js"
+              "id": "i8i4",
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/react-dom/index.js",
+              "name": "./node_modules/react-dom/index.js"
             },
             {
-              "id": "viRO",
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/react/cjs/react.production.min.js",
-              "name": "./node_modules/react/cjs/react.production.min.js"
+              "id": "yl30",
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/react-dom/cjs/react-dom.production.min.js",
+              "name": "./node_modules/react-dom/cjs/react-dom.production.min.js"
             }
           ],
           "failed": false,
@@ -3332,9 +3332,9 @@
           "chunks": [
             3
           ],
-          "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/.cache/find-path.js",
-          "issuerId": null,
-          "issuerName": "./.cache/find-path.js",
+          "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/reach-router-add-basecontext-export-loader.js!/Users/alexander/Projects/gatsby-webpack/node_modules/@reach/router/es/index.js",
+          "issuerId": "YwZP",
+          "issuerName": "./node_modules/@reach/router/es/index.js",
           "issuerPath": [
             {
               "id": null,
@@ -3342,14 +3342,9 @@
               "name": "./.cache/production-app.js"
             },
             {
-              "id": "IOVJ",
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/.cache/page-renderer.js",
-              "name": "./.cache/page-renderer.js"
-            },
-            {
-              "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/.cache/find-path.js",
-              "name": "./.cache/find-path.js"
+              "id": "YwZP",
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/reach-router-add-basecontext-export-loader.js!/Users/alexander/Projects/gatsby-webpack/node_modules/@reach/router/es/index.js",
+              "name": "./node_modules/@reach/router/es/index.js"
             }
           ],
           "failed": false,
@@ -11191,9 +11186,9 @@
       "chunks": [
         3
       ],
-      "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/react/cjs/react.production.min.js",
-      "issuerId": "viRO",
-      "issuerName": "./node_modules/react/cjs/react.production.min.js",
+      "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/react-dom/cjs/react-dom.production.min.js",
+      "issuerId": "yl30",
+      "issuerName": "./node_modules/react-dom/cjs/react-dom.production.min.js",
       "issuerPath": [
         {
           "id": null,
@@ -11201,14 +11196,14 @@
           "name": "./.cache/production-app.js"
         },
         {
-          "id": "q1tI",
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/react/index.js",
-          "name": "./node_modules/react/index.js"
+          "id": "i8i4",
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/react-dom/index.js",
+          "name": "./node_modules/react-dom/index.js"
         },
         {
-          "id": "viRO",
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/react/cjs/react.production.min.js",
-          "name": "./node_modules/react/cjs/react.production.min.js"
+          "id": "yl30",
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/react-dom/cjs/react-dom.production.min.js",
+          "name": "./node_modules/react-dom/cjs/react-dom.production.min.js"
         }
       ],
       "failed": false,
@@ -11367,9 +11362,9 @@
           "name": "./.cache/_this_is_virtual_fs_path_/$virtual/async-requires.js"
         },
         {
-          "id": "w2l6",
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/404.js",
-          "name": "./src/pages/404.js"
+          "id": null,
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/index.js",
+          "name": "./src/pages/index.js"
         },
         {
           "id": "vrFN",
@@ -12579,9 +12574,9 @@
       "chunks": [
         3
       ],
-      "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/.cache/find-path.js",
-      "issuerId": null,
-      "issuerName": "./.cache/find-path.js",
+      "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/reach-router-add-basecontext-export-loader.js!/Users/alexander/Projects/gatsby-webpack/node_modules/@reach/router/es/index.js",
+      "issuerId": "YwZP",
+      "issuerName": "./node_modules/@reach/router/es/index.js",
       "issuerPath": [
         {
           "id": null,
@@ -12589,14 +12584,9 @@
           "name": "./.cache/production-app.js"
         },
         {
-          "id": "IOVJ",
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/.cache/page-renderer.js",
-          "name": "./.cache/page-renderer.js"
-        },
-        {
-          "id": null,
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/.cache/find-path.js",
-          "name": "./.cache/find-path.js"
+          "id": "YwZP",
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/reach-router-add-basecontext-export-loader.js!/Users/alexander/Projects/gatsby-webpack/node_modules/@reach/router/es/index.js",
+          "name": "./node_modules/@reach/router/es/index.js"
         }
       ],
       "failed": false,
@@ -14533,9 +14523,9 @@
           "name": "./.cache/_this_is_virtual_fs_path_/$virtual/async-requires.js"
         },
         {
-          "id": "w2l6",
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/404.js",
-          "name": "./src/pages/404.js"
+          "id": null,
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/index.js",
+          "name": "./src/pages/index.js"
         },
         {
           "id": "vrFN",
@@ -17748,9 +17738,9 @@
           "name": "./.cache/_this_is_virtual_fs_path_/$virtual/async-requires.js"
         },
         {
-          "id": "w2l6",
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/404.js",
-          "name": "./src/pages/404.js"
+          "id": null,
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/index.js",
+          "name": "./src/pages/index.js"
         },
         {
           "id": "vrFN",
@@ -17920,9 +17910,9 @@
       "chunks": [
         0
       ],
-      "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/404.js",
-      "issuerId": "w2l6",
-      "issuerName": "./src/pages/404.js",
+      "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/index.js",
+      "issuerId": null,
+      "issuerName": "./src/pages/index.js",
       "issuerPath": [
         {
           "id": null,
@@ -17935,9 +17925,9 @@
           "name": "./.cache/_this_is_virtual_fs_path_/$virtual/async-requires.js"
         },
         {
-          "id": "w2l6",
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/404.js",
-          "name": "./src/pages/404.js"
+          "id": null,
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/index.js",
+          "name": "./src/pages/index.js"
         }
       ],
       "failed": false,
