@@ -30,9 +30,14 @@ module.exports = {
     {
       resolve: `gatsby-plugin-webpack-bundle-analyser-v2`,
       options: {
+        statsFilename: '../stats/stats.json',
+        reportFilename: '../stats/report.html',
         openAnalyzer: false,
         analyzerMode: 'static',
         generateStatsFile: true,
+        statsOptions: {
+          source: false
+        }
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
