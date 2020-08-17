@@ -27,19 +27,20 @@ module.exports = {
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
     },
-    {
-      resolve: `gatsby-plugin-webpack-bundle-analyser-v2`,
-      options: {
-        // statsFilename: 'reports/stats.json',
-        // reportFilename: 'reports/report.html',
-        openAnalyzer: false,
-        analyzerMode: 'static',
-        generateStatsFile: true,
-        statsOptions: {
-          source: false
-        }
-      },
-    }
+    'gatsby-plugin-bundle-stats',
+    // {
+    //   resolve: `gatsby-plugin-webpack-bundle-analyser-v2`,
+    //   options: {
+    //     // statsFilename: 'reports/stats.json',
+    //     // reportFilename: 'reports/report.html',
+    //     openAnalyzer: false,
+    //     analyzerMode: 'static',
+    //     generateStatsFile: true,
+    //     statsOptions: {
+    //       source: false
+    //     }
+    //   },
+    // }
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
