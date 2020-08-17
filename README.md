@@ -1,4 +1,5 @@
 [![RelativeCI](https://badges.relative-ci.com/badges/vEXYfh0eSTEzLAlIv0Bt?branch=master)](https://app.relative-ci.com/projects/vEXYfh0eSTEzLAlIv0Bt)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/18600d7b-8e6f-4b53-b1ea-62fafd2bb3a0/deploy-status)](https://app.netlify.com/sites/gatsby-webpack-production/deploys)
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
