@@ -1,2 +1,0 @@
-- name: BundleStats
-  uses: vio/bundle-stats-action@v1.1.0
