@@ -30,8 +30,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-webpack-bundle-analyser-v2`,
       options: {
-        statsFilename: '../reports/stats.json',
-        reportFilename: '../reports/report.html',
+        statsFilename: 'reports/stats.json',
+        reportFilename: 'reports/report.html',
         openAnalyzer: false,
         analyzerMode: 'static',
         generateStatsFile: true,
