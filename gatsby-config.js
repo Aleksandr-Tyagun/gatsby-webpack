@@ -40,6 +40,18 @@ module.exports = {
         }
       },
     },
+    {
+      resolve: `gatsby-plugin-bundle-stats`,
+      options: {
+        assets: true,
+        html: true,
+        compare: true,
+        outDir: 'reports',
+        stats: {
+          context: './src'
+        }
+      }
+    },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
