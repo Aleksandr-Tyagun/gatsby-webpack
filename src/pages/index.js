@@ -1,9 +1,13 @@
 import React from "react"
 import { Link } from "gatsby"
+import _ from "lodash"
 
 import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
+
+const a = _.debounce(() => { console.log('hello') })
+a()
 
 const IndexPage = () => (
   <Layout>
