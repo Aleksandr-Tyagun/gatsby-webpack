@@ -5,8 +5,6 @@ import axios from 'axios'
 import chalk from 'chalk'
 import { Swiper, SwiperSlide } from 'swiper/react';
 
-// Import Swiper styles
-import 'swiper/swiper.scss';
 
 import Layout from "../components/layout"
 import Image from "../components/image"
