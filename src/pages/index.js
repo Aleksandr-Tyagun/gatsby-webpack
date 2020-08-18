@@ -1,6 +1,5 @@
 import React from "react"
 import { Link } from "gatsby"
-import { Swiper, SwiperSlide } from 'swiper/react';
 import _ from "lodash"
 import axios from 'axios'
 import chalk from 'chalk'
