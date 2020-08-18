@@ -3,6 +3,10 @@ import { Link } from "gatsby"
 import _ from "lodash"
 import axios from 'axios'
 import chalk from 'chalk'
+import { Swiper, SwiperSlide } from 'swiper/react';
+
+// Import Swiper styles
+import 'swiper/swiper.scss';
 
 import Layout from "../components/layout"
 import Image from "../components/image"
@@ -10,7 +14,17 @@ import SEO from "../components/seo"
 
 const a = _.debounce(() => { console.log('hello') })
 a()
-axios(() => {})
+
+async function getUser() {
+  try {
+    const response = await axios.get('/user?ID=12345');
+    console.log(response);
+  } catch (error) {
+    console.error(error);
+  }
+}
+
+getUser()
 
 const IndexPage = () => {
   console.log(chalk.blue('Hello world!'));
@@ -24,6 +38,17 @@ const IndexPage = () => {
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
+    <Swiper
+      spaceBetween={50}
+      slidesPerView={3}
+      onSlideChange={() => console.log('slide change')}
+      onSwiper={(swiper) => console.log(swiper)}
+    >
+      <SwiperSlide>Slide 1</SwiperSlide>
+      <SwiperSlide>Slide 2</SwiperSlide>
+      <SwiperSlide>Slide 3</SwiperSlide>
+      <SwiperSlide>Slide 4</SwiperSlide>
+    </Swiper>
     <Link to="/page-2/">Go to page 2</Link> <br />
     <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
   </Layout>
