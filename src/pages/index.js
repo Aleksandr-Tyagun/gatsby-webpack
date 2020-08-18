@@ -1,10 +1,10 @@
 import React from "react"
 import { Link } from "gatsby"
+import { Swiper, SwiperSlide } from 'swiper/react';
 import _ from "lodash"
 import axios from 'axios'
 import chalk from 'chalk'
 import { Swiper, SwiperSlide } from 'swiper/react';
-
 
 import Layout from "../components/layout"
 import Image from "../components/image"
@@ -31,7 +31,7 @@ const IndexPage = () => {
   <Layout>
     <SEO title="Home" />
     <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
+    <p>Welcome to your new Gasdasatsby site.</p>
     <p>Now go build something great.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
