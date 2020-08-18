@@ -5,8 +5,8 @@
   ],
   "version": "4.43.0",
   "hash": "6d48189cb02ebc006c2e",
-  "time": 9647,
-  "builtAt": 1597655842259,
+  "time": 10780,
+  "builtAt": 1597664243114,
   "publicPath": "/",
   "outputPath": "/Users/alexander/Projects/gatsby-webpack/public",
   "assetsByChunkName": {
@@ -1842,9 +1842,9 @@
           "chunks": [
             3
           ],
-          "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-handler.js",
-          "issuerId": "Enzk",
-          "issuerName": "./node_modules/gatsby-react-router-scroll/scroll-handler.js",
+          "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-container.js",
+          "issuerId": "hd9s",
+          "issuerName": "./node_modules/gatsby-react-router-scroll/scroll-container.js",
           "issuerPath": [
             {
               "id": null,
@@ -1857,9 +1857,9 @@
               "name": "./node_modules/gatsby-react-router-scroll/index.js"
             },
             {
-              "id": "Enzk",
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-handler.js",
-              "name": "./node_modules/gatsby-react-router-scroll/scroll-handler.js"
+              "id": "hd9s",
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-container.js",
+              "name": "./node_modules/gatsby-react-router-scroll/scroll-container.js"
             }
           ],
           "failed": false,
@@ -3971,9 +3971,9 @@
           "chunks": [
             3
           ],
-          "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-handler.js",
-          "issuerId": "Enzk",
-          "issuerName": "./node_modules/gatsby-react-router-scroll/scroll-handler.js",
+          "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-container.js",
+          "issuerId": "hd9s",
+          "issuerName": "./node_modules/gatsby-react-router-scroll/scroll-container.js",
           "issuerPath": [
             {
               "id": null,
@@ -3986,9 +3986,9 @@
               "name": "./node_modules/gatsby-react-router-scroll/index.js"
             },
             {
-              "id": "Enzk",
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-handler.js",
-              "name": "./node_modules/gatsby-react-router-scroll/scroll-handler.js"
+              "id": "hd9s",
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-container.js",
+              "name": "./node_modules/gatsby-react-router-scroll/scroll-container.js"
             }
           ],
           "failed": false,
@@ -4430,9 +4430,9 @@
           "chunks": [
             3
           ],
-          "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-handler.js",
-          "issuerId": "Enzk",
-          "issuerName": "./node_modules/gatsby-react-router-scroll/scroll-handler.js",
+          "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-container.js",
+          "issuerId": "hd9s",
+          "issuerName": "./node_modules/gatsby-react-router-scroll/scroll-container.js",
           "issuerPath": [
             {
               "id": null,
@@ -4445,9 +4445,9 @@
               "name": "./node_modules/gatsby-react-router-scroll/index.js"
             },
             {
-              "id": "Enzk",
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-handler.js",
-              "name": "./node_modules/gatsby-react-router-scroll/scroll-handler.js"
+              "id": "hd9s",
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-container.js",
+              "name": "./node_modules/gatsby-react-router-scroll/scroll-container.js"
             }
           ],
           "failed": false,
@@ -4959,9 +4959,9 @@
               "name": "./node_modules/gatsby-react-router-scroll/index.js"
             },
             {
-              "id": "Enzk",
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-handler.js",
-              "name": "./node_modules/gatsby-react-router-scroll/scroll-handler.js"
+              "id": "hd9s",
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-container.js",
+              "name": "./node_modules/gatsby-react-router-scroll/scroll-container.js"
             },
             {
               "id": "284h",
@@ -6187,9 +6187,9 @@
               "prefetched": false,
               "chunks": [
               ],
-              "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js",
+              "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js",
               "issuerId": null,
-              "issuerName": "./node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js",
+              "issuerName": "./node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -6208,8 +6208,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js",
-                  "name": "./node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js",
+                  "name": "./node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js"
                 }
               ],
               "failed": false,
@@ -6220,18 +6220,18 @@
               "reasons": [
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js",
-                  "module": "./node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js",
-                  "moduleName": "./node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js",
+                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js",
+                  "module": "./node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js",
+                  "moduleName": "./node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "./arrayLikeToArray",
                   "loc": "1:0-50"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js",
-                  "module": "./node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js",
-                  "moduleName": "./node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js",
+                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js",
+                  "module": "./node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js",
+                  "moduleName": "./node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "./arrayLikeToArray",
                   "loc": "1:0-50"
@@ -7465,9 +7465,9 @@
               "prefetched": false,
               "chunks": [
               ],
-              "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/swiper.js",
+              "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/swiper-slide.js",
               "issuerId": null,
-              "issuerName": "./node_modules/swiper/esm/react/swiper.js",
+              "issuerName": "./node_modules/swiper/esm/react/swiper-slide.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -7491,8 +7491,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/swiper.js",
-                  "name": "./node_modules/swiper/esm/react/swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/swiper-slide.js",
+                  "name": "./node_modules/swiper/esm/react/swiper-slide.js"
                 }
               ],
               "failed": false,
@@ -7512,21 +7512,21 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "module": "./node_modules/swiper/esm/react/init-swiper.js",
-                  "moduleName": "./node_modules/swiper/esm/react/init-swiper.js",
-                  "type": "harmony side effect evaluation",
-                  "userRequest": "./utils",
-                  "loc": "3:0-75"
-                },
-                {
-                  "moduleId": null,
                   "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
                   "module": "./node_modules/swiper/esm/react/get-params.js",
                   "moduleName": "./node_modules/swiper/esm/react/get-params.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "./utils",
                   "loc": "3:0-43"
+                },
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
+                  "module": "./node_modules/swiper/esm/react/init-swiper.js",
+                  "moduleName": "./node_modules/swiper/esm/react/init-swiper.js",
+                  "type": "harmony side effect evaluation",
+                  "userRequest": "./utils",
+                  "loc": "3:0-75"
                 },
                 {
                   "moduleId": null,
@@ -8520,8 +8520,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -8634,9 +8634,9 @@
               "prefetched": false,
               "chunks": [
               ],
-              "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/scrollbar/scrollbar.js",
-              "issuerId": "Ap4+",
-              "issuerName": "./node_modules/swiper/esm/components/scrollbar/scrollbar.js",
+              "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/keyboard/keyboard.js",
+              "issuerId": "h2/A",
+              "issuerName": "./node_modules/swiper/esm/components/keyboard/keyboard.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -8665,8 +8665,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -8674,9 +8674,9 @@
                   "name": "./node_modules/swiper/swiper.esm.js"
                 },
                 {
-                  "id": "Ap4+",
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/scrollbar/scrollbar.js",
-                  "name": "./node_modules/swiper/esm/components/scrollbar/scrollbar.js"
+                  "id": "h2/A",
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/keyboard/keyboard.js",
+                  "name": "./node_modules/swiper/esm/components/keyboard/keyboard.js"
                 }
               ],
               "failed": false,
@@ -8705,6 +8705,15 @@
                 },
                 {
                   "moduleId": null,
+                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/utils/utils.js",
+                  "module": "./node_modules/swiper/esm/utils/utils.js",
+                  "moduleName": "./node_modules/swiper/esm/utils/utils.js",
+                  "type": "harmony side effect evaluation",
+                  "userRequest": "ssr-window",
+                  "loc": "1:0-39"
+                },
+                {
+                  "moduleId": null,
                   "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/utils/get-support.js",
                   "module": "./node_modules/swiper/esm/utils/get-support.js",
                   "moduleName": "./node_modules/swiper/esm/utils/get-support.js",
@@ -8714,9 +8723,9 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/utils/utils.js",
-                  "module": "./node_modules/swiper/esm/utils/utils.js",
-                  "moduleName": "./node_modules/swiper/esm/utils/utils.js",
+                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/utils/get-browser.js",
+                  "module": "./node_modules/swiper/esm/utils/get-browser.js",
+                  "moduleName": "./node_modules/swiper/esm/utils/get-browser.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "ssr-window",
                   "loc": "1:0-39"
@@ -8732,12 +8741,12 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/utils/get-browser.js",
-                  "module": "./node_modules/swiper/esm/utils/get-browser.js",
-                  "moduleName": "./node_modules/swiper/esm/utils/get-browser.js",
+                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/events/onTouchStart.js",
+                  "module": "./node_modules/swiper/esm/components/core/events/onTouchStart.js",
+                  "moduleName": "./node_modules/swiper/esm/components/core/events/onTouchStart.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "ssr-window",
-                  "loc": "1:0-39"
+                  "loc": "1:0-52"
                 },
                 {
                   "moduleId": null,
@@ -8750,30 +8759,12 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/events/onTouchStart.js",
-                  "module": "./node_modules/swiper/esm/components/core/events/onTouchStart.js",
-                  "moduleName": "./node_modules/swiper/esm/components/core/events/onTouchStart.js",
-                  "type": "harmony side effect evaluation",
-                  "userRequest": "ssr-window",
-                  "loc": "1:0-52"
-                },
-                {
-                  "moduleId": null,
                   "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/update/updateSlides.js",
                   "module": "./node_modules/swiper/esm/components/core/update/updateSlides.js",
                   "moduleName": "./node_modules/swiper/esm/components/core/update/updateSlides.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "ssr-window",
                   "loc": "1:0-39"
-                },
-                {
-                  "moduleId": null,
-                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/loop/loopCreate.js",
-                  "module": "./node_modules/swiper/esm/components/core/loop/loopCreate.js",
-                  "moduleName": "./node_modules/swiper/esm/components/core/loop/loopCreate.js",
-                  "type": "harmony side effect evaluation",
-                  "userRequest": "ssr-window",
-                  "loc": "1:0-41"
                 },
                 {
                   "moduleId": null,
@@ -8792,6 +8783,15 @@
                   "type": "harmony side effect evaluation",
                   "userRequest": "ssr-window",
                   "loc": "1:0-39"
+                },
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/loop/loopCreate.js",
+                  "module": "./node_modules/swiper/esm/components/core/loop/loopCreate.js",
+                  "moduleName": "./node_modules/swiper/esm/components/core/loop/loopCreate.js",
+                  "type": "harmony side effect evaluation",
+                  "userRequest": "ssr-window",
+                  "loc": "1:0-41"
                 },
                 {
                   "moduleId": null,
@@ -9420,8 +9420,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -9451,15 +9451,6 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/slide/slideToClickedSlide.js",
-                  "module": "./node_modules/swiper/esm/components/core/slide/slideToClickedSlide.js",
-                  "moduleName": "./node_modules/swiper/esm/components/core/slide/slideToClickedSlide.js",
-                  "type": "harmony side effect evaluation",
-                  "userRequest": "../../../utils/dom",
-                  "loc": "1:0-35"
-                },
-                {
-                  "moduleId": null,
                   "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/update/updateClickedSlide.js",
                   "module": "./node_modules/swiper/esm/components/core/update/updateClickedSlide.js",
                   "moduleName": "./node_modules/swiper/esm/components/core/update/updateClickedSlide.js",
@@ -9469,18 +9460,27 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/loop/loopCreate.js",
-                  "module": "./node_modules/swiper/esm/components/core/loop/loopCreate.js",
-                  "moduleName": "./node_modules/swiper/esm/components/core/loop/loopCreate.js",
+                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/slide/slideToClickedSlide.js",
+                  "module": "./node_modules/swiper/esm/components/core/slide/slideToClickedSlide.js",
+                  "moduleName": "./node_modules/swiper/esm/components/core/slide/slideToClickedSlide.js",
+                  "type": "harmony side effect evaluation",
+                  "userRequest": "../../../utils/dom",
+                  "loc": "1:0-35"
+                },
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/images/loadImage.js",
+                  "module": "./node_modules/swiper/esm/components/core/images/loadImage.js",
+                  "moduleName": "./node_modules/swiper/esm/components/core/images/loadImage.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "../../../utils/dom",
                   "loc": "2:0-35"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/events/onTouchMove.js",
-                  "module": "./node_modules/swiper/esm/components/core/events/onTouchMove.js",
-                  "moduleName": "./node_modules/swiper/esm/components/core/events/onTouchMove.js",
+                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/loop/loopCreate.js",
+                  "module": "./node_modules/swiper/esm/components/core/loop/loopCreate.js",
+                  "moduleName": "./node_modules/swiper/esm/components/core/loop/loopCreate.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "../../../utils/dom",
                   "loc": "2:0-35"
@@ -9496,9 +9496,9 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/images/loadImage.js",
-                  "module": "./node_modules/swiper/esm/components/core/images/loadImage.js",
-                  "moduleName": "./node_modules/swiper/esm/components/core/images/loadImage.js",
+                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/events/onTouchMove.js",
+                  "module": "./node_modules/swiper/esm/components/core/events/onTouchMove.js",
+                  "moduleName": "./node_modules/swiper/esm/components/core/events/onTouchMove.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "../../../utils/dom",
                   "loc": "2:0-35"
@@ -10233,8 +10233,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -10264,6 +10264,15 @@
                 },
                 {
                   "moduleId": null,
+                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/translate/getTranslate.js",
+                  "module": "./node_modules/swiper/esm/components/core/translate/getTranslate.js",
+                  "moduleName": "./node_modules/swiper/esm/components/core/translate/getTranslate.js",
+                  "type": "harmony side effect evaluation",
+                  "userRequest": "../../../utils/utils",
+                  "loc": "1:0-52"
+                },
+                {
+                  "moduleId": null,
                   "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/update/updateSize.js",
                   "module": "./node_modules/swiper/esm/components/core/update/updateSize.js",
                   "moduleName": "./node_modules/swiper/esm/components/core/update/updateSize.js",
@@ -10288,15 +10297,6 @@
                   "type": "harmony side effect evaluation",
                   "userRequest": "../../../utils/utils",
                   "loc": "1:0-46"
-                },
-                {
-                  "moduleId": null,
-                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/translate/getTranslate.js",
-                  "module": "./node_modules/swiper/esm/components/core/translate/getTranslate.js",
-                  "moduleName": "./node_modules/swiper/esm/components/core/translate/getTranslate.js",
-                  "type": "harmony side effect evaluation",
-                  "userRequest": "../../../utils/utils",
-                  "loc": "1:0-52"
                 },
                 {
                   "moduleId": null,
@@ -10345,18 +10345,18 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/events/onTouchMove.js",
-                  "module": "./node_modules/swiper/esm/components/core/events/onTouchMove.js",
-                  "moduleName": "./node_modules/swiper/esm/components/core/events/onTouchMove.js",
+                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/events/onTouchStart.js",
+                  "module": "./node_modules/swiper/esm/components/core/events/onTouchStart.js",
+                  "moduleName": "./node_modules/swiper/esm/components/core/events/onTouchStart.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "../../../utils/utils",
                   "loc": "3:0-51"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/events/onTouchStart.js",
-                  "module": "./node_modules/swiper/esm/components/core/events/onTouchStart.js",
-                  "moduleName": "./node_modules/swiper/esm/components/core/events/onTouchStart.js",
+                  "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/events/onTouchMove.js",
+                  "module": "./node_modules/swiper/esm/components/core/events/onTouchMove.js",
+                  "moduleName": "./node_modules/swiper/esm/components/core/events/onTouchMove.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "../../../utils/utils",
                   "loc": "3:0-51"
@@ -11345,8 +11345,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -11456,8 +11456,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -11549,8 +11549,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -11642,8 +11642,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -11735,8 +11735,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -11828,8 +11828,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -11921,8 +11921,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -12014,8 +12014,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -12107,8 +12107,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -12200,8 +12200,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -12293,8 +12293,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -12386,8 +12386,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -12479,8 +12479,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -12572,8 +12572,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -12665,8 +12665,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -12758,8 +12758,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -12851,8 +12851,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -12944,8 +12944,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -13037,8 +13037,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -13130,8 +13130,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -13232,8 +13232,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -13783,8 +13783,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -13881,8 +13881,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -13979,8 +13979,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -14077,8 +14077,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -14175,8 +14175,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -14273,8 +14273,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -14371,8 +14371,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -14469,8 +14469,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -14567,8 +14567,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -14665,8 +14665,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -14763,8 +14763,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -14861,8 +14861,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -14959,8 +14959,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -15057,8 +15057,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -15155,8 +15155,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -15253,8 +15253,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -15351,8 +15351,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -15449,8 +15449,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -15547,8 +15547,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -15645,8 +15645,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -15743,8 +15743,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -15841,8 +15841,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -15939,8 +15939,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -16037,8 +16037,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -16135,8 +16135,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -16233,8 +16233,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -16331,8 +16331,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -16429,8 +16429,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -16527,8 +16527,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -16625,8 +16625,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -16723,8 +16723,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -16821,8 +16821,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -16919,8 +16919,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -17017,8 +17017,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -17115,8 +17115,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -17213,8 +17213,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -17311,8 +17311,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -17409,8 +17409,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -17525,8 +17525,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -17623,8 +17623,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -17721,8 +17721,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -17819,8 +17819,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -17917,8 +17917,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -18015,8 +18015,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -18113,8 +18113,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -18211,8 +18211,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-                  "name": "./node_modules/swiper/esm/react/init-swiper.js"
+                  "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+                  "name": "./node_modules/swiper/esm/react/get-params.js"
                 },
                 {
                   "id": "TaHA",
@@ -19514,25 +19514,25 @@
               "moduleName": "./src/pages/index.js + 84 modules",
               "type": "harmony side effect evaluation",
               "userRequest": "react",
-              "loc": "1:0-26"
-            },
-            {
-              "moduleId": "RXBc",
-              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/index.js 22f666e4886c9e83be175499292ed937",
-              "module": "./src/pages/index.js + 84 modules",
-              "moduleName": "./src/pages/index.js + 84 modules",
-              "type": "harmony side effect evaluation",
-              "userRequest": "react",
-              "loc": "1:0-26"
-            },
-            {
-              "moduleId": "RXBc",
-              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/index.js 22f666e4886c9e83be175499292ed937",
-              "module": "./src/pages/index.js + 84 modules",
-              "moduleName": "./src/pages/index.js + 84 modules",
-              "type": "harmony side effect evaluation",
-              "userRequest": "react",
               "loc": "1:0-51"
+            },
+            {
+              "moduleId": "RXBc",
+              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/index.js 22f666e4886c9e83be175499292ed937",
+              "module": "./src/pages/index.js + 84 modules",
+              "moduleName": "./src/pages/index.js + 84 modules",
+              "type": "harmony side effect evaluation",
+              "userRequest": "react",
+              "loc": "1:0-26"
+            },
+            {
+              "moduleId": "RXBc",
+              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/index.js 22f666e4886c9e83be175499292ed937",
+              "module": "./src/pages/index.js + 84 modules",
+              "moduleName": "./src/pages/index.js + 84 modules",
+              "type": "harmony side effect evaluation",
+              "userRequest": "react",
+              "loc": "1:0-26"
             },
             {
               "moduleId": "RXBc",
@@ -19748,7 +19748,7 @@
               "moduleName": "./src/pages/index.js + 84 modules",
               "type": "harmony side effect evaluation",
               "userRequest": "react",
-              "loc": "34:0-71"
+              "loc": "34:0-77"
             },
             {
               "moduleId": "RXBc",
@@ -19757,7 +19757,7 @@
               "moduleName": "./src/pages/index.js + 84 modules",
               "type": "harmony side effect evaluation",
               "userRequest": "react",
-              "loc": "34:0-77"
+              "loc": "34:0-71"
             },
             {
               "moduleId": "RXBc",
@@ -21537,8 +21537,8 @@
         },
         {
           "id": null,
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-          "name": "./node_modules/swiper/esm/react/init-swiper.js"
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+          "name": "./node_modules/swiper/esm/react/get-params.js"
         },
         {
           "id": "TaHA",
@@ -21994,8 +21994,8 @@
         },
         {
           "id": null,
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-          "name": "./node_modules/swiper/esm/react/init-swiper.js"
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+          "name": "./node_modules/swiper/esm/react/get-params.js"
         },
         {
           "id": "TaHA",
@@ -22051,9 +22051,9 @@
       "chunks": [
         3
       ],
-      "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-handler.js",
-      "issuerId": "Enzk",
-      "issuerName": "./node_modules/gatsby-react-router-scroll/scroll-handler.js",
+      "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-container.js",
+      "issuerId": "hd9s",
+      "issuerName": "./node_modules/gatsby-react-router-scroll/scroll-container.js",
       "issuerPath": [
         {
           "id": null,
@@ -22066,9 +22066,9 @@
           "name": "./node_modules/gatsby-react-router-scroll/index.js"
         },
         {
-          "id": "Enzk",
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-handler.js",
-          "name": "./node_modules/gatsby-react-router-scroll/scroll-handler.js"
+          "id": "hd9s",
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-container.js",
+          "name": "./node_modules/gatsby-react-router-scroll/scroll-container.js"
         }
       ],
       "failed": false,
@@ -22573,8 +22573,8 @@
         },
         {
           "id": null,
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-          "name": "./node_modules/swiper/esm/react/init-swiper.js"
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+          "name": "./node_modules/swiper/esm/react/get-params.js"
         },
         {
           "id": "TaHA",
@@ -22909,8 +22909,8 @@
         },
         {
           "id": null,
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-          "name": "./node_modules/swiper/esm/react/init-swiper.js"
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+          "name": "./node_modules/swiper/esm/react/get-params.js"
         },
         {
           "id": "TaHA",
@@ -23559,8 +23559,8 @@
         },
         {
           "id": null,
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-          "name": "./node_modules/swiper/esm/react/init-swiper.js"
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+          "name": "./node_modules/swiper/esm/react/get-params.js"
         },
         {
           "id": "TaHA",
@@ -23781,8 +23781,8 @@
         },
         {
           "id": null,
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-          "name": "./node_modules/swiper/esm/react/init-swiper.js"
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+          "name": "./node_modules/swiper/esm/react/get-params.js"
         },
         {
           "id": "TaHA",
@@ -25530,9 +25530,9 @@
           "prefetched": false,
           "chunks": [
           ],
-          "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/swiper.js",
+          "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/swiper-slide.js",
           "issuerId": null,
-          "issuerName": "./node_modules/swiper/esm/react/swiper.js",
+          "issuerName": "./node_modules/swiper/esm/react/swiper-slide.js",
           "issuerPath": [
             {
               "id": null,
@@ -25556,8 +25556,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/swiper.js",
-              "name": "./node_modules/swiper/esm/react/swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/swiper-slide.js",
+              "name": "./node_modules/swiper/esm/react/swiper-slide.js"
             }
           ],
           "failed": false,
@@ -25577,21 +25577,21 @@
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "module": "./node_modules/swiper/esm/react/init-swiper.js",
-              "moduleName": "./node_modules/swiper/esm/react/init-swiper.js",
-              "type": "harmony side effect evaluation",
-              "userRequest": "./utils",
-              "loc": "3:0-75"
-            },
-            {
-              "moduleId": null,
               "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
               "module": "./node_modules/swiper/esm/react/get-params.js",
               "moduleName": "./node_modules/swiper/esm/react/get-params.js",
               "type": "harmony side effect evaluation",
               "userRequest": "./utils",
               "loc": "3:0-43"
+            },
+            {
+              "moduleId": null,
+              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
+              "module": "./node_modules/swiper/esm/react/init-swiper.js",
+              "moduleName": "./node_modules/swiper/esm/react/init-swiper.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./utils",
+              "loc": "3:0-75"
             },
             {
               "moduleId": null,
@@ -26585,8 +26585,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -26699,9 +26699,9 @@
           "prefetched": false,
           "chunks": [
           ],
-          "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/scrollbar/scrollbar.js",
-          "issuerId": "Ap4+",
-          "issuerName": "./node_modules/swiper/esm/components/scrollbar/scrollbar.js",
+          "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/keyboard/keyboard.js",
+          "issuerId": "h2/A",
+          "issuerName": "./node_modules/swiper/esm/components/keyboard/keyboard.js",
           "issuerPath": [
             {
               "id": null,
@@ -26730,8 +26730,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -26739,9 +26739,9 @@
               "name": "./node_modules/swiper/swiper.esm.js"
             },
             {
-              "id": "Ap4+",
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/scrollbar/scrollbar.js",
-              "name": "./node_modules/swiper/esm/components/scrollbar/scrollbar.js"
+              "id": "h2/A",
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/keyboard/keyboard.js",
+              "name": "./node_modules/swiper/esm/components/keyboard/keyboard.js"
             }
           ],
           "failed": false,
@@ -26770,6 +26770,15 @@
             },
             {
               "moduleId": null,
+              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/utils/utils.js",
+              "module": "./node_modules/swiper/esm/utils/utils.js",
+              "moduleName": "./node_modules/swiper/esm/utils/utils.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "ssr-window",
+              "loc": "1:0-39"
+            },
+            {
+              "moduleId": null,
               "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/utils/get-support.js",
               "module": "./node_modules/swiper/esm/utils/get-support.js",
               "moduleName": "./node_modules/swiper/esm/utils/get-support.js",
@@ -26779,9 +26788,9 @@
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/utils/utils.js",
-              "module": "./node_modules/swiper/esm/utils/utils.js",
-              "moduleName": "./node_modules/swiper/esm/utils/utils.js",
+              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/utils/get-browser.js",
+              "module": "./node_modules/swiper/esm/utils/get-browser.js",
+              "moduleName": "./node_modules/swiper/esm/utils/get-browser.js",
               "type": "harmony side effect evaluation",
               "userRequest": "ssr-window",
               "loc": "1:0-39"
@@ -26797,12 +26806,12 @@
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/utils/get-browser.js",
-              "module": "./node_modules/swiper/esm/utils/get-browser.js",
-              "moduleName": "./node_modules/swiper/esm/utils/get-browser.js",
+              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/events/onTouchStart.js",
+              "module": "./node_modules/swiper/esm/components/core/events/onTouchStart.js",
+              "moduleName": "./node_modules/swiper/esm/components/core/events/onTouchStart.js",
               "type": "harmony side effect evaluation",
               "userRequest": "ssr-window",
-              "loc": "1:0-39"
+              "loc": "1:0-52"
             },
             {
               "moduleId": null,
@@ -26815,30 +26824,12 @@
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/events/onTouchStart.js",
-              "module": "./node_modules/swiper/esm/components/core/events/onTouchStart.js",
-              "moduleName": "./node_modules/swiper/esm/components/core/events/onTouchStart.js",
-              "type": "harmony side effect evaluation",
-              "userRequest": "ssr-window",
-              "loc": "1:0-52"
-            },
-            {
-              "moduleId": null,
               "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/update/updateSlides.js",
               "module": "./node_modules/swiper/esm/components/core/update/updateSlides.js",
               "moduleName": "./node_modules/swiper/esm/components/core/update/updateSlides.js",
               "type": "harmony side effect evaluation",
               "userRequest": "ssr-window",
               "loc": "1:0-39"
-            },
-            {
-              "moduleId": null,
-              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/loop/loopCreate.js",
-              "module": "./node_modules/swiper/esm/components/core/loop/loopCreate.js",
-              "moduleName": "./node_modules/swiper/esm/components/core/loop/loopCreate.js",
-              "type": "harmony side effect evaluation",
-              "userRequest": "ssr-window",
-              "loc": "1:0-41"
             },
             {
               "moduleId": null,
@@ -26857,6 +26848,15 @@
               "type": "harmony side effect evaluation",
               "userRequest": "ssr-window",
               "loc": "1:0-39"
+            },
+            {
+              "moduleId": null,
+              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/loop/loopCreate.js",
+              "module": "./node_modules/swiper/esm/components/core/loop/loopCreate.js",
+              "moduleName": "./node_modules/swiper/esm/components/core/loop/loopCreate.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "ssr-window",
+              "loc": "1:0-41"
             },
             {
               "moduleId": null,
@@ -27485,8 +27485,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -27516,15 +27516,6 @@
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/slide/slideToClickedSlide.js",
-              "module": "./node_modules/swiper/esm/components/core/slide/slideToClickedSlide.js",
-              "moduleName": "./node_modules/swiper/esm/components/core/slide/slideToClickedSlide.js",
-              "type": "harmony side effect evaluation",
-              "userRequest": "../../../utils/dom",
-              "loc": "1:0-35"
-            },
-            {
-              "moduleId": null,
               "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/update/updateClickedSlide.js",
               "module": "./node_modules/swiper/esm/components/core/update/updateClickedSlide.js",
               "moduleName": "./node_modules/swiper/esm/components/core/update/updateClickedSlide.js",
@@ -27534,18 +27525,27 @@
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/loop/loopCreate.js",
-              "module": "./node_modules/swiper/esm/components/core/loop/loopCreate.js",
-              "moduleName": "./node_modules/swiper/esm/components/core/loop/loopCreate.js",
+              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/slide/slideToClickedSlide.js",
+              "module": "./node_modules/swiper/esm/components/core/slide/slideToClickedSlide.js",
+              "moduleName": "./node_modules/swiper/esm/components/core/slide/slideToClickedSlide.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "../../../utils/dom",
+              "loc": "1:0-35"
+            },
+            {
+              "moduleId": null,
+              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/images/loadImage.js",
+              "module": "./node_modules/swiper/esm/components/core/images/loadImage.js",
+              "moduleName": "./node_modules/swiper/esm/components/core/images/loadImage.js",
               "type": "harmony side effect evaluation",
               "userRequest": "../../../utils/dom",
               "loc": "2:0-35"
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/events/onTouchMove.js",
-              "module": "./node_modules/swiper/esm/components/core/events/onTouchMove.js",
-              "moduleName": "./node_modules/swiper/esm/components/core/events/onTouchMove.js",
+              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/loop/loopCreate.js",
+              "module": "./node_modules/swiper/esm/components/core/loop/loopCreate.js",
+              "moduleName": "./node_modules/swiper/esm/components/core/loop/loopCreate.js",
               "type": "harmony side effect evaluation",
               "userRequest": "../../../utils/dom",
               "loc": "2:0-35"
@@ -27561,9 +27561,9 @@
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/images/loadImage.js",
-              "module": "./node_modules/swiper/esm/components/core/images/loadImage.js",
-              "moduleName": "./node_modules/swiper/esm/components/core/images/loadImage.js",
+              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/events/onTouchMove.js",
+              "module": "./node_modules/swiper/esm/components/core/events/onTouchMove.js",
+              "moduleName": "./node_modules/swiper/esm/components/core/events/onTouchMove.js",
               "type": "harmony side effect evaluation",
               "userRequest": "../../../utils/dom",
               "loc": "2:0-35"
@@ -28298,8 +28298,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -28329,6 +28329,15 @@
             },
             {
               "moduleId": null,
+              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/translate/getTranslate.js",
+              "module": "./node_modules/swiper/esm/components/core/translate/getTranslate.js",
+              "moduleName": "./node_modules/swiper/esm/components/core/translate/getTranslate.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "../../../utils/utils",
+              "loc": "1:0-52"
+            },
+            {
+              "moduleId": null,
               "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/update/updateSize.js",
               "module": "./node_modules/swiper/esm/components/core/update/updateSize.js",
               "moduleName": "./node_modules/swiper/esm/components/core/update/updateSize.js",
@@ -28353,15 +28362,6 @@
               "type": "harmony side effect evaluation",
               "userRequest": "../../../utils/utils",
               "loc": "1:0-46"
-            },
-            {
-              "moduleId": null,
-              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/translate/getTranslate.js",
-              "module": "./node_modules/swiper/esm/components/core/translate/getTranslate.js",
-              "moduleName": "./node_modules/swiper/esm/components/core/translate/getTranslate.js",
-              "type": "harmony side effect evaluation",
-              "userRequest": "../../../utils/utils",
-              "loc": "1:0-52"
             },
             {
               "moduleId": null,
@@ -28410,18 +28410,18 @@
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/events/onTouchMove.js",
-              "module": "./node_modules/swiper/esm/components/core/events/onTouchMove.js",
-              "moduleName": "./node_modules/swiper/esm/components/core/events/onTouchMove.js",
+              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/events/onTouchStart.js",
+              "module": "./node_modules/swiper/esm/components/core/events/onTouchStart.js",
+              "moduleName": "./node_modules/swiper/esm/components/core/events/onTouchStart.js",
               "type": "harmony side effect evaluation",
               "userRequest": "../../../utils/utils",
               "loc": "3:0-51"
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/events/onTouchStart.js",
-              "module": "./node_modules/swiper/esm/components/core/events/onTouchStart.js",
-              "moduleName": "./node_modules/swiper/esm/components/core/events/onTouchStart.js",
+              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/components/core/events/onTouchMove.js",
+              "module": "./node_modules/swiper/esm/components/core/events/onTouchMove.js",
+              "moduleName": "./node_modules/swiper/esm/components/core/events/onTouchMove.js",
               "type": "harmony side effect evaluation",
               "userRequest": "../../../utils/utils",
               "loc": "3:0-51"
@@ -29410,8 +29410,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -29521,8 +29521,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -29614,8 +29614,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -29707,8 +29707,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -29800,8 +29800,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -29893,8 +29893,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -29986,8 +29986,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -30079,8 +30079,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -30172,8 +30172,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -30265,8 +30265,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -30358,8 +30358,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -30451,8 +30451,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -30544,8 +30544,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -30637,8 +30637,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -30730,8 +30730,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -30823,8 +30823,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -30916,8 +30916,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -31009,8 +31009,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -31102,8 +31102,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -31195,8 +31195,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -31297,8 +31297,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -31848,8 +31848,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -31946,8 +31946,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -32044,8 +32044,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -32142,8 +32142,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -32240,8 +32240,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -32338,8 +32338,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -32436,8 +32436,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -32534,8 +32534,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -32632,8 +32632,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -32730,8 +32730,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -32828,8 +32828,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -32926,8 +32926,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -33024,8 +33024,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -33122,8 +33122,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -33220,8 +33220,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -33318,8 +33318,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -33416,8 +33416,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -33514,8 +33514,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -33612,8 +33612,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -33710,8 +33710,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -33808,8 +33808,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -33906,8 +33906,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -34004,8 +34004,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -34102,8 +34102,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -34200,8 +34200,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -34298,8 +34298,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -34396,8 +34396,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -34494,8 +34494,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -34592,8 +34592,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -34690,8 +34690,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -34788,8 +34788,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -34886,8 +34886,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -34984,8 +34984,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -35082,8 +35082,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -35180,8 +35180,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -35278,8 +35278,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -35376,8 +35376,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -35474,8 +35474,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -35590,8 +35590,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -35688,8 +35688,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -35786,8 +35786,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -35884,8 +35884,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -35982,8 +35982,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -36080,8 +36080,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -36178,8 +36178,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -36276,8 +36276,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-              "name": "./node_modules/swiper/esm/react/init-swiper.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+              "name": "./node_modules/swiper/esm/react/get-params.js"
             },
             {
               "id": "TaHA",
@@ -36377,8 +36377,8 @@
         },
         {
           "id": null,
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-          "name": "./node_modules/swiper/esm/react/init-swiper.js"
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+          "name": "./node_modules/swiper/esm/react/get-params.js"
         },
         {
           "id": "TaHA",
@@ -36433,9 +36433,9 @@
       "prefetched": false,
       "chunks": [
       ],
-      "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
+      "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
       "issuerId": null,
-      "issuerName": "./node_modules/swiper/esm/react/init-swiper.js",
+      "issuerName": "./node_modules/swiper/esm/react/get-params.js",
       "issuerPath": [
         {
           "id": null,
@@ -36464,8 +36464,8 @@
         },
         {
           "id": null,
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-          "name": "./node_modules/swiper/esm/react/init-swiper.js"
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+          "name": "./node_modules/swiper/esm/react/get-params.js"
         }
       ],
       "failed": false,
@@ -36536,9 +36536,9 @@
       "chunks": [
         3
       ],
-      "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-handler.js",
-      "issuerId": "Enzk",
-      "issuerName": "./node_modules/gatsby-react-router-scroll/scroll-handler.js",
+      "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-container.js",
+      "issuerId": "hd9s",
+      "issuerName": "./node_modules/gatsby-react-router-scroll/scroll-container.js",
       "issuerPath": [
         {
           "id": null,
@@ -36551,9 +36551,9 @@
           "name": "./node_modules/gatsby-react-router-scroll/index.js"
         },
         {
-          "id": "Enzk",
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-handler.js",
-          "name": "./node_modules/gatsby-react-router-scroll/scroll-handler.js"
+          "id": "hd9s",
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-container.js",
+          "name": "./node_modules/gatsby-react-router-scroll/scroll-container.js"
         }
       ],
       "failed": false,
@@ -37101,9 +37101,9 @@
       "chunks": [
         3
       ],
-      "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-handler.js",
-      "issuerId": "Enzk",
-      "issuerName": "./node_modules/gatsby-react-router-scroll/scroll-handler.js",
+      "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-container.js",
+      "issuerId": "hd9s",
+      "issuerName": "./node_modules/gatsby-react-router-scroll/scroll-container.js",
       "issuerPath": [
         {
           "id": null,
@@ -37116,9 +37116,9 @@
           "name": "./node_modules/gatsby-react-router-scroll/index.js"
         },
         {
-          "id": "Enzk",
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-handler.js",
-          "name": "./node_modules/gatsby-react-router-scroll/scroll-handler.js"
+          "id": "hd9s",
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-container.js",
+          "name": "./node_modules/gatsby-react-router-scroll/scroll-container.js"
         }
       ],
       "failed": false,
@@ -37536,8 +37536,8 @@
         },
         {
           "id": null,
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-          "name": "./node_modules/swiper/esm/react/init-swiper.js"
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+          "name": "./node_modules/swiper/esm/react/get-params.js"
         },
         {
           "id": "TaHA",
@@ -37836,8 +37836,8 @@
         },
         {
           "id": null,
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-          "name": "./node_modules/swiper/esm/react/init-swiper.js"
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+          "name": "./node_modules/swiper/esm/react/get-params.js"
         },
         {
           "id": "TaHA",
@@ -38001,8 +38001,8 @@
         },
         {
           "id": null,
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-          "name": "./node_modules/swiper/esm/react/init-swiper.js"
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+          "name": "./node_modules/swiper/esm/react/get-params.js"
         },
         {
           "id": "TaHA",
@@ -38073,9 +38073,9 @@
           "name": "./node_modules/gatsby-react-router-scroll/index.js"
         },
         {
-          "id": "Enzk",
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-handler.js",
-          "name": "./node_modules/gatsby-react-router-scroll/scroll-handler.js"
+          "id": "hd9s",
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby-react-router-scroll/scroll-container.js",
+          "name": "./node_modules/gatsby-react-router-scroll/scroll-container.js"
         },
         {
           "id": "284h",
@@ -38442,8 +38442,8 @@
         },
         {
           "id": null,
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-          "name": "./node_modules/swiper/esm/react/init-swiper.js"
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+          "name": "./node_modules/swiper/esm/react/get-params.js"
         },
         {
           "id": "TaHA",
@@ -38529,8 +38529,8 @@
         },
         {
           "id": null,
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-          "name": "./node_modules/swiper/esm/react/init-swiper.js"
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+          "name": "./node_modules/swiper/esm/react/get-params.js"
         },
         {
           "id": "TaHA",
@@ -39475,9 +39475,9 @@
           "prefetched": false,
           "chunks": [
           ],
-          "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js",
+          "issuer": "/Users/alexander/Projects/gatsby-webpack/node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js",
           "issuerId": null,
-          "issuerName": "./node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js",
+          "issuerName": "./node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js",
           "issuerPath": [
             {
               "id": null,
@@ -39496,8 +39496,8 @@
             },
             {
               "id": null,
-              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js",
-              "name": "./node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js"
+              "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js",
+              "name": "./node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js"
             }
           ],
           "failed": false,
@@ -39508,18 +39508,18 @@
           "reasons": [
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js",
-              "module": "./node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js",
-              "moduleName": "./node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js",
+              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js",
+              "module": "./node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js",
+              "moduleName": "./node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js",
               "type": "harmony side effect evaluation",
               "userRequest": "./arrayLikeToArray",
               "loc": "1:0-50"
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js",
-              "module": "./node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js",
-              "moduleName": "./node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js",
+              "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js",
+              "module": "./node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js",
+              "moduleName": "./node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js",
               "type": "harmony side effect evaluation",
               "userRequest": "./arrayLikeToArray",
               "loc": "1:0-50"
@@ -39609,8 +39609,8 @@
         },
         {
           "id": null,
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-          "name": "./node_modules/swiper/esm/react/init-swiper.js"
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+          "name": "./node_modules/swiper/esm/react/get-params.js"
         },
         {
           "id": "TaHA",
@@ -39696,8 +39696,8 @@
         },
         {
           "id": null,
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-          "name": "./node_modules/swiper/esm/react/init-swiper.js"
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+          "name": "./node_modules/swiper/esm/react/get-params.js"
         },
         {
           "id": "TaHA",
@@ -39783,8 +39783,8 @@
         },
         {
           "id": null,
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-          "name": "./node_modules/swiper/esm/react/init-swiper.js"
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+          "name": "./node_modules/swiper/esm/react/get-params.js"
         },
         {
           "id": "TaHA",
@@ -40050,8 +40050,8 @@
         },
         {
           "id": null,
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-          "name": "./node_modules/swiper/esm/react/init-swiper.js"
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+          "name": "./node_modules/swiper/esm/react/get-params.js"
         },
         {
           "id": "TaHA",
@@ -40730,25 +40730,25 @@
           "moduleName": "./src/pages/index.js + 84 modules",
           "type": "harmony side effect evaluation",
           "userRequest": "react",
-          "loc": "1:0-26"
-        },
-        {
-          "moduleId": "RXBc",
-          "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/index.js 22f666e4886c9e83be175499292ed937",
-          "module": "./src/pages/index.js + 84 modules",
-          "moduleName": "./src/pages/index.js + 84 modules",
-          "type": "harmony side effect evaluation",
-          "userRequest": "react",
-          "loc": "1:0-26"
-        },
-        {
-          "moduleId": "RXBc",
-          "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/index.js 22f666e4886c9e83be175499292ed937",
-          "module": "./src/pages/index.js + 84 modules",
-          "moduleName": "./src/pages/index.js + 84 modules",
-          "type": "harmony side effect evaluation",
-          "userRequest": "react",
           "loc": "1:0-51"
+        },
+        {
+          "moduleId": "RXBc",
+          "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/index.js 22f666e4886c9e83be175499292ed937",
+          "module": "./src/pages/index.js + 84 modules",
+          "moduleName": "./src/pages/index.js + 84 modules",
+          "type": "harmony side effect evaluation",
+          "userRequest": "react",
+          "loc": "1:0-26"
+        },
+        {
+          "moduleId": "RXBc",
+          "moduleIdentifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/gatsby/dist/utils/babel-loader.js??ref--4-0!/Users/alexander/Projects/gatsby-webpack/src/pages/index.js 22f666e4886c9e83be175499292ed937",
+          "module": "./src/pages/index.js + 84 modules",
+          "moduleName": "./src/pages/index.js + 84 modules",
+          "type": "harmony side effect evaluation",
+          "userRequest": "react",
+          "loc": "1:0-26"
         },
         {
           "moduleId": "RXBc",
@@ -40964,7 +40964,7 @@
           "moduleName": "./src/pages/index.js + 84 modules",
           "type": "harmony side effect evaluation",
           "userRequest": "react",
-          "loc": "34:0-71"
+          "loc": "34:0-77"
         },
         {
           "moduleId": "RXBc",
@@ -40973,7 +40973,7 @@
           "moduleName": "./src/pages/index.js + 84 modules",
           "type": "harmony side effect evaluation",
           "userRequest": "react",
-          "loc": "34:0-77"
+          "loc": "34:0-71"
         },
         {
           "moduleId": "RXBc",
@@ -42305,8 +42305,8 @@
         },
         {
           "id": null,
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-          "name": "./node_modules/swiper/esm/react/init-swiper.js"
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+          "name": "./node_modules/swiper/esm/react/get-params.js"
         },
         {
           "id": "TaHA",
@@ -42392,8 +42392,8 @@
         },
         {
           "id": null,
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-          "name": "./node_modules/swiper/esm/react/init-swiper.js"
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+          "name": "./node_modules/swiper/esm/react/get-params.js"
         },
         {
           "id": "TaHA",
@@ -43051,8 +43051,8 @@
         },
         {
           "id": null,
-          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/init-swiper.js",
-          "name": "./node_modules/swiper/esm/react/init-swiper.js"
+          "identifier": "/Users/alexander/Projects/gatsby-webpack/node_modules/babel-loader/lib/index.js??ref--11-0!/Users/alexander/Projects/gatsby-webpack/node_modules/swiper/esm/react/get-params.js",
+          "name": "./node_modules/swiper/esm/react/get-params.js"
         },
         {
           "id": "TaHA",
