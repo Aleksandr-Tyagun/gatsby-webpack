@@ -27,7 +27,7 @@ module.exports = {
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
     },
-    'gatsby-plugin-bundle-stats',
+    // 'gatsby-plugin-bundle-stats',
     // {
     //   resolve: `gatsby-plugin-webpack-bundle-analyser-v2`,
     //   options: {
